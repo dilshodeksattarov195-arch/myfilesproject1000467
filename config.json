@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authstringify",
+        "uuid": 368463,
+        "checksum": "rdm325"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
